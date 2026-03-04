@@ -6,6 +6,7 @@ Taskbroker provides a Kafka consumer, RPC interface, and inflight task storage
 that form the core engine of asynchronous task execution at Sentry. This repository
 also contains client libraries for python.
 
+
 ## High level overview
 
 ```mermaid
